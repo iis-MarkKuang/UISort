@@ -1,0 +1,9 @@
+E:\LyncLunch\Sort\UISort\bin\Debug\UISort.exe.config
+E:\LyncLunch\Sort\UISort\bin\Debug\UISort.exe
+E:\LyncLunch\Sort\UISort\bin\Debug\UISort.pdb
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.csprojResolveAssemblyReference.cache
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.Form1.resources
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.Properties.Resources.resources
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.csproj.GenerateResource.Cache
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.exe
+E:\LyncLunch\Sort\UISort\obj\Debug\UISort.pdb
